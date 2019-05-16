@@ -1,0 +1,108 @@
+body{
+margin:0;
+background-image: linear-gradient(to right,white,black,black);
+}
+p{
+color:red;
+align:center;
+font-size:35px;
+position:absolute;
+left:45%;
+top:-10px;
+margin-top:40px;
+}
+.menu{
+background-image: linear-gradient(to right,white,black,black);
+height:250px;
+width:100%;
+}
+.logo{
+position:absolute;
+top:15px;
+left:-2%;
+}
+.menubar{
+font-size:40px;
+text-align:center;
+padding-top:40px;
+padding-bottom:34px;
+background-color:none;
+width:250px;
+position: absolute;
+top:60px;
+color:rgb(41, 255, 218);
+border:solid 1px rgb(41, 255, 218);
+}
+.marvel:hover{
+background-image: url("https://uploaddeimagens.com.br/images/002/083/097/original/Marvel_trabalho.png?1556864488");
+color:rgb(0, 0, 0, 0);
+}
+.dc:hover{
+background-image: url("https://uploaddeimagens.com.br/images/002/083/095/original/DC_trabalho.png?1556864324");
+color:rgb(0, 0, 0, 0);
+}
+.animes:hover{
+background-image: url("https://uploaddeimagens.com.br/images/002/083/096/full/animes_trabalho.png?1556864470");
+color:rgb(0, 0, 0, 0);
+}
+.area{
+background-image:url(https://i.pinimg.com/originals/b8/3c/0c/b83c0cb9c92063c293b95e23281aef1b.jpg);
+border-style:solid;
+border-width: 2px;
+border-color:red;
+border-radius:20px;
+width:99.7%;
+position:absolute;
+}
+.filme{
+width:25%;
+height:200px;
+margin-top:50px;
+margin-left:6.25%;
+}
+.bordafilme{
+border:1px solid red;
+border-radius:20px;
+}
+.topo{
+position:fixed;
+bottom:3%;
+right:3%;
+color:white;
+font-size:50px;
+}
+#linha1{
+margin-top:150px;
+}
+#marvel{
+height:2200px;
+}
+#marvelbar{
+position:absolute;
+left:20%;
+font-family: 'Roboto Slab', serif;
+font-family: 'Anton', sans-serif;
+}
+#dcbar{
+position:absolute;
+left:45%;
+font-family: 'Roboto Slab', serif;
+font-family: 'Anton', sans-serif;
+}
+#animesbar{
+position:absolute;
+left:70%;
+font-family: 'Roboto Slab', serif;
+font-family: 'Anton', sans-serif;
+}
+#dc{
+height:900px;
+position:absolute;
+top:2500px;
+}
+#animes{
+height:920px;
+position:absolute;
+top:3450px;
+}
+#menu{}
